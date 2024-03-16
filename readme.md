@@ -13,7 +13,7 @@
 4. pytorch (PC)
 
 # Demo
-1. Download the CPGA-Net (for LLIE model)
+1. Download the repo and CPGA-Net (for LLIE model)
 ```
 git install https://github.com/Shyandram/EdgeAI_LLIE_NC2.git
 cd EdgeAI_LLIE_NC2
