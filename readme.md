@@ -1,7 +1,7 @@
-# EdgeAI Project: Image Enhancement using Intel NC2
+# EdgeAI Project: Image Enhancement using Intel NCS2
 
 # Preparation
-* Intel NC2  
+* Intel NCS2  
 * Respberry Pi 4  
 * Camera for Raspberry Pi
 * PC
